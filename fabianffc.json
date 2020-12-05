@@ -1,0 +1,10 @@
+{
+	"title": "Node-js-Readme-Generator",
+	"description": "On this application we are going to create a readme using Node.js",
+	"installation": "To install the application just have to use npm init and install inquirer on your computer",
+	"usage": "To use the application you are gonna need to just follow the list of questions prompt in",
+	"contributors": " your terminal and anwser to these questions. At the end a readme would be created it with all your anwsers",
+	"test": "play",
+	"username": "Fabianffc",
+	"email": "fabianffc@gmail.com"
+}

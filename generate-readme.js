@@ -1,8 +1,9 @@
-# readme
+function generateReadme(data){
+return `# ${data.title}
 
 ## Description 
 
-1234
+${data.description}
 
 ## Table of Contents (Optional)
 
@@ -16,15 +17,15 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-instal
+${data.installation}
 
 ## Usage 
 
-play with it
+${data.usage}
 
 ## Credits
 
-none
+${data.contributors}
 
 
 ## License
@@ -46,19 +47,22 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 
 ## Contributing
 
-none
+${data.contributors}
 
 
 ## Tests
 
-lkjllj
+${data.test}
 
 ## Questions  
 
-fabia
-fanlll
+${data.username}
+${data.email}
 
 
 
    
 
+`
+}
+module.exports = generateReadme
