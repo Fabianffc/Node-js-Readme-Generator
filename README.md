@@ -2,7 +2,9 @@
 
 ## Description 
 
-1234
+Is a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md
 
 ## Table of Contents (Optional)
 
@@ -20,7 +22,7 @@ instal
 
 ## Usage 
 
-play with it
+Respond the serie of question prompt to you and an autogenerate Readme will create for you.
 
 ## Credits
 
@@ -31,9 +33,6 @@ none
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-
-
----
 
 🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
@@ -51,12 +50,12 @@ none
 
 ## Tests
 
-lkjllj
+
 
 ## Questions  
 
-fabia
-fanlll
+Github: Fabianffc
+Email: fabianffc@gmail.com
 
 
 
