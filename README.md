@@ -20,7 +20,9 @@ If your README is very long, add a table of contents to make it easy for users t
 
 instal
 
-## Usage 
+## Usage   
+
+Video tutorial https://youtu.be/EMW-kwxCOZM. 
 
 Respond the serie of question prompt to you and an autogenerate Readme will create for you.
 
